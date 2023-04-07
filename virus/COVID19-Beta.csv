@@ -1,0 +1,3 @@
+name, city, R0, ldR0, T1, maxT1, T2, deathRate1, deathRate2, infectMode, asymRate
+COVID-19,Default,2.7,0.4, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Beijing,3.21,2.5, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0

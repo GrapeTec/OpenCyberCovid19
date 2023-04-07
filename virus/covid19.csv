@@ -1,0 +1,7 @@
+name, version, R0, T1, maxT1, T2, deathRate1, deathRate2, infectMode, asymRate
+COVID-19, alpha, 2.7, 5.5 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19, beta, 2.7, 5.5 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19, gamma, 2.7, 5.5 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19, delta, 2.7, 5.5 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19, omicron-1, 2.7, 5.5 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19, omicron-2, 2.7, 5.5 14, 14, 0.04, 0.1, incubation, 0.0

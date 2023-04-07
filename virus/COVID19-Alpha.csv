@@ -1,0 +1,40 @@
+name, city, R0, ldR0, T1, maxT1, T2, deathRate1, deathRate2, infectMode, asymRate
+COVID-19,Default,2.7,0.4, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Beijing,2.6, 0.55, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Changsha,2.2, 0.5, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Changchun,3.4, 0.5, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Chengdu,2.41, 0.52, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Chongqing,2.8,0.55, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Dalian,2.3,0.5, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Fuzhou,2.8,0.45, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Guangzhou,3.03,0.61, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Guiyang,2.3,0.5, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Haerbin,3.3,0.6, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Haikou,2.2,0.6, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Hangzhou,3.08,0.45, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Hefei,2.6,0.65, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Jinan,2.7,0.52, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Jinzhong,2.75,0.63, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Kunming,2.3,0.4, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Lanzhou,2.6,0.5, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Nanchang,2.9,0.5, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Nanjing,2.35,0.5, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Nanyang,2.45,0.65, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Nanning,2.3,0.4, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Qingdao,2.8,0.45, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Sanya,2.7,0.65, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Shanghai,2.72,0.55, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Shenyang,2.6,0.4, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Shenzhen,3.1,0.7, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Shijiazhuang,2.2,0.3, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Suzhou,2.8,0.4, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Taiyuan,3,0.65, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Tianjin,2.9,0.65, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Wenzhou,5.0,0.4, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Wulumuqi,2.25,0.65, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Xian,2.5,0.55, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Xining,1.5,0.3, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Xiamen,2.1,0.6, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Xinyang,2.3,0.6, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Yinchuan,2.7,0.5, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0
+COVID-19,Zhengzhou,2.3,0.4, 5.5, 14, 14, 0.04, 0.1, incubation, 0.0

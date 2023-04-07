@@ -1,0 +1,2 @@
+name, version, R0, T1, maxT1, T2, deathRate1, deathRate2, infectMode
+SARS, NONE, 3.5, 4.0, 16, 14, 0.06, 0.11, symptom
