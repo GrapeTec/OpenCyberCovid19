@@ -11,7 +11,7 @@ from datetime import date
 country = CovidCountryModel("China", "alpha") # 病毒信息存在virus文件夹
 
 # 2020年1月1日，在中国武汉首先发现了新冠疫情。
-# 这里，我们于2020年1月1日投入了武汉的零号病人
+# 这里，我们于2019年12月13日投入了武汉的零号病人
 country.startInCity("Wuhan", date(2019, 12, 13), 1)
 ## 2020年2月3日，火神山医院投入使用，增加1000个床位
 ## 2020年2月8日，雷神山医院投入使用，增加1600个床位
