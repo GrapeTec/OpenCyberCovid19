@@ -27,7 +27,7 @@ for k in range(1, 120) :
         for log in migration.logs :
             country.migrateByLog(log, True) # 启用采样，采样感染率信息存在migration文件夹
     # 2020年1月24日，全国宣布进入到一级响应状态
-    if dt == date(2020, 1, 24):
+    if dt == date(2020, 1, 24) :
         country.lockdown()
     # 每日进行一轮预测，以仿真全国各个城市的疫情结果
     country.predict()
