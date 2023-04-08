@@ -1,32 +1,34 @@
 # 程序说明
-## City.py : 包含CityModel，用于模拟城市疫情
-## Country.py : 包含CountryModel，用于模拟国家疫情
-## COVID19.py : 包含COVID19疫情机理模型Covid19Model和SaturedCovid19Model
-## Delay.py : 包含DelayModel，提供延迟环节
-## Hospital.py :
-## Incubation.py :
-## Migration.py :
-## Quarantine.py :
-## Record.py :
-## Result.py :
-## SARS.py :
-## SEIR.py :
-## Trace.py :
-## Virus.py :
+## City.py : 城市模块，包含CityModel，用于模拟城市疫情
+## Country.py : 国家模块，包含CountryModel，用于模拟国家疫情
+## COVID19.py : COVID-19模块，包含COVID-19疫情机理模型Covid19Model和SaturedCovid19Model
+## Delay.py : 延迟模块，包含DelayModel，提供延迟环节
+## Hospital.py : 医院模块，模拟医院床位的饱和情况
+## Incubation.py : 潜伏期模块，模拟病毒的潜伏期
+## Migration.py : 迁移模块，模拟城市之间的人口迁移
+## Quarantine.py : 隔离模块，模拟隔离疑似感染者的行为
+## Record.py : 记录模块，记录仿真过程数据
+## Result.py : 结果模块，展示仿真结果
+## SARS.py : SARS疫情模型
+## SEIR.py : SEIR疫情模型
+## Trace.py : 追踪模块，模拟密接追踪的行为
+## Virus.py : 病毒模块，病毒的基础数据结构
 
 # Test
-## TestCity.py :
-## TestCOVID19.py :
-## TestMigration.py :
-## TestSARS.py :
-## TestSaturedCOVID19.py :
-## TestSEIR.py :
+## TestCity.py : 城市模拟的测试程序
+## TestCOVID19.py : COVID-19模型的测试程序
+## TestMigration.py : 迁移模型的测试程序
+## TestSARS.py : SARS的测试程序
+## TestSaturedCOVID19.py : 饱和COVID-19模型的测试程序
+## TestSEIR.py : SEIR模型的测试程序
 
 # Scenario
-## Scenario-Wuhan-202001.py :
-## Scenario-Beijing-202006.py :
-## Scenario-Nanjing-202106.py :
-## Scenario-Yangzhou-202106.py :
-## Scenario-Shanghai-202204.py :
-## Scenario-Beijing-202205.py :
-## Scenario-Open-202212.py :
+## Scenario-Wuhan-202001.py : 这是模拟2020年1月武汉疫情的脚本，在脚本之中修改想模拟的城市名（例如：Beijing），直接运行，观察结果即可。
+
+# Data
+## city : 城市人口数据
+## history : 疫情的历史数据
+## hospital : 医院床位数据
+## migration : 城市间的迁移人口数据
+## trace : 密接追踪参数
+## virus：各种病毒的基本参数
