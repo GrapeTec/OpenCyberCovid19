@@ -1,14 +1,14 @@
 # NOTE: 
 All the simulations are made in Chinese cities, so we comments most of the programs in Chinese. If you are not familiar with Chinese, and get interested in our program, please email to: xiaowenlei@buaa.edu.cn. If we get enough requests, we will try to translate the comments into English.
 # Authors
-Wenlei Xiao (Associate Professor, Beihang University, xiaowenlei@buaa.edu.cn);
-Qiang Liu  (Professor, Beihang University, qliusmea@buaa.edu.cn);
-Liuquan Wang (PhD candidate, Beihang University);
-Ji Huan (Professor, Beihang University);
-Pengpeng Sun (PhD candidate, Beihang University);
-Chenxin Zang (PhD candidate, Beihang University);
-Sanying Zhu (PhD candidate, Beihang University);
-Liansheng Gao (Associate Professor, Beihang University)
+- Wenlei Xiao (Associate Professor, Beihang University, xiaowenlei@buaa.edu.cn);
+- Qiang Liu  (Professor, Beihang University, qliusmea@buaa.edu.cn);
+- Liuquan Wang (PhD candidate, Beihang University);
+- Ji Huan (Professor, Beihang University);
+- Pengpeng Sun (PhD candidate, Beihang University);
+- Chenxin Zang (PhD candidate, Beihang University);
+- Sanying Zhu (PhD candidate, Beihang University);
+- Liansheng Gao (Associate Professor, Beihang University)
 
 # 程序说明
 - City.py : 城市模块，包含CityModel，用于模拟城市疫情
