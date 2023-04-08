@@ -1,3 +1,5 @@
+# NOTE: 
+All the simulations are made in Chinese cities, so we comments most of the programs in Chinese. If you are not familiar with Chinese, and get interested in our program, please email to: xiaowenlei@buaa.edu.cn. If we get enough requests, we will try to translate the comments into English.
 # Authors
 Wenlei Xiao (Associate Professor, Beihang University, xiaowenlei@buaa.edu.cn);
 Qiang Liu  (Professor, Beihang University, qliusmea@buaa.edu.cn);
